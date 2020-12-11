@@ -11,7 +11,7 @@ alongwith a detailed report which includes various recommendations and insights 
 Usage: The orange file could be loaded in Orange tool for getting the pipeline used for analysis
 
 Project Credits: 
-Aditya Tornekar
-Paridhi Rajyaguru
-Rishabh Upadhye
+1) Aditya Tornekar
+2) Paridhi Rajyaguru
+3) Rishabh Upadhye
 
